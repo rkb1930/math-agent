@@ -1,0 +1,13 @@
+langchain-openai
+llama-index
+streamlit
+dspy-ai
+qdrant-client
+tavily-python
+python-dotenv
+matplotlib
+numpy
+pandas
+openai
+requests
+transformers
